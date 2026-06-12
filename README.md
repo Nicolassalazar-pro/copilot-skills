@@ -8,6 +8,7 @@ A personal collection of [GitHub Copilot CLI](https://docs.github.com/copilot)
 | Skill | What it's for |
 |-------|---------------|
 | [`research-build-system`](skills/research-build-system/) | Architecture for autonomous "research → validated build" projects: two-track separation, constitution+ledger+plan trio, scheduled tick lifecycle, honesty-gated progress dial, and reproducibility/verification disciplines. Ships ready-to-copy templates. |
+| [`design-craft`](skills/design-craft/) | One consolidated UI/UX reference for great interfaces in **any** setting (desktop, mobile, e-ink, embedded/HTTP, TUI, slides). Synthesises Apple HIG + cross-domain/non-tech UX (Rams, Norman, luxury HMI, pro-tools, radial menus, wayfinding, games) + desktop philosophy (GNOME/KDE/Material/Fluent), organized around "low floor, high ceiling, wide walls" (easy yet powerful) with an explicit ease-vs-power decision framework, design tokens, motion & latency budgets, gestures/radial menus, accessibility, and a per-setting adaptation matrix. Supersedes `web-design-dna`. |
 
 ## How Copilot CLI skills work
 
